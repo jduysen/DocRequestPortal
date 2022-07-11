@@ -4,7 +4,7 @@
 
 This is a custom SPFx webpart that aims to improve the document request process in the organization
 
-![alt text](https://sharepoint.tsbg.com/sites/development/RequestPortal/Assets/https-sharepointtsbgcom-sites-de%20(1).gif?raw=true)
+![alt text](https://github.com/jduysen/DocRequestPortal/blob/main/docrequest.gif?raw=true)
 
 ## Used SharePoint Framework Version
 
