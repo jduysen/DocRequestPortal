@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a custom SPFx webpart that aims to improve the document request process in the organization
+This is an example of a custom webpart that was built to improve the efficiency of gathering audit documents.
 
 ![alt text](https://github.com/jduysen/DocRequestPortal/blob/main/docrequest.gif?raw=true)
 
